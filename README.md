@@ -1,6 +1,13 @@
 # Responsive Features 
 ## Problem Statement 
 
+
+
+
+
+
+
+
 Open the `index.html` file in your web browser, and inspect it. Play around with
 resizing the window. Notice how as the window gets smaller, the website becomes
 increasingly unreadable? This is what we refer to as _desktop down_ design. In
